@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Apache Kafka, Spring Reactive & ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rbanuelos](https://github.com/rbanuelos)
+- 👨‍💻 All of my projects are available here at Github!
 
 - 💬 Ask me about **Java and Node!**
 
