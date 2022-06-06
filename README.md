@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Roberto Bañuelos Gómez</h1>
+<h1 align="center">Hi 👋<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" alt="py" height="30" width="40" /> , I'm Roberto Bañuelos Gómez</h1>
 <h3 align="center">A backend developer from Paraguay!</h3>
 
-- 🔭 I’m currently working on [a AbleTo as a NodeJS Sr. developer](https://www.ableto.com/)
+
+- 🔭 I’m currently working on [AbleTo](https://www.ableto.com/) as a NodeJS Sr. developer and on small personal projects for fun.
 
 - 🌱 I’m currently learning **Apache Kafka, Spring Reactive & ReactJS**
 
-- 👨‍💻 All of my projects are available here at Github!
-
-- 💬 Ask me about **Java and Node!**
+- 👨‍💻 All of my projects are available here at Github! I'm trying to complete a new project every month! And also start to contribute to opensource Java projects 
 
 - 📫 How to reach me **rbanuelos@gmail.com**
 
