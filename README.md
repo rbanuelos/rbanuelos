@@ -2,18 +2,15 @@
 <h3 align="center">A backend developer from Paraguay!</h3>
 
 
-- 🔭 I’m currently working on [AbleTo](https://www.ableto.com/) as a NodeJS Sr. developer and on small personal projects for fun.
+- 🔭 I’m currently working on a health care project as a SR. Software Developer in [Mentormate](https://mentormate.com/). I have experience in telcom, financial, ed tech, agriculture and health industries. I had worked as a Researcher, Data Engineer, Java/NodeJS/Python developer and also as a Team Leader for a small development team
 
 - 🌱 I’m currently learning **Apache Kafka, Spring Reactive & ReactJS**
 
-- 👨‍💻 All of my projects are available here at Github! I'm trying to complete a new project every month! And also start to contribute to opensource Java projects 
+- 👨‍💻 All of my personal projects are available here at Github! New project every month! I make projects for fun and to learn new tools an they can be about simple use cases, board games, web applications    
+
+- ⚽ I'm very passionate about music 🎸🎤, sports ⚽🏀🏓🎾, chess♟ & gaming 🎮! 
 
 - 📫 How to reach me **rbanuelos@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rbanuelospy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbanuelospy" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">I feel very comfortable working with</h3>
 <p align="center">
@@ -70,5 +67,14 @@
 <h3 align="left">I'm learning!</h3>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/250px-Apache_kafka.svg.png" alt="Apache Kafka" width="40" height="40"/> </a>    
+<a href="https://spring.io/reactive" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/13SnnJ5s/reactive-spring-boot.png" alt="Spring Reactive" width="40" height="40"/> </a>  
+
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rbanuelospy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbanuelospy" height="30" width="40" /></a>
+
 </p>
 
