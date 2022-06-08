@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on a health care project as a SR. Software Developer in [Mentormate](https://mentormate.com/). I have experience in telcom, financial, ed tech, agriculture and health industries. I had worked as a Researcher, Data Engineer, Java/NodeJS/Python developer and also as a Team Leader for a small development team
 
-- 🌱 I’m currently learning **Apache Kafka, Spring Reactive & ReactJS**
+- 🌱 I’m currently learning **Apache Kafka & ReactJS**
 
 - 👨‍💻 All of my personal projects are available here at Github! New project every month! I make projects for fun and to learn new tools an they can be about simple use cases, board games, web applications    
 
 - ⚽ I'm very passionate about music 🎸🎤, sports ⚽🏀🏓🎾, chess♟ & gaming 🎮! 
 
-- 📫 How to reach me **rbanuelos@gmail.com**
+<h2 align="center">Languages, Frameworks and Tools!</h2>
 
-<h3 align="left">I feel very comfortable working with</h3>
+<h3 align="left">I feel very comfortable working with 😎</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
 </p>
 
 
-<h3 align="left">I have experience with</h3>
+<h3 align="left">I have experience with 😊</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -52,7 +52,7 @@
 </p>
 
 
-<h3 align="left">I had briefly worked with</h3>
+<h3 align="left">I had briefly worked with 🙂</h3>
 <p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
@@ -64,17 +64,17 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>  
 </p>
 
-<h3 align="left">I'm learning!</h3>
+<h3 align="left">I'm learning! 🤓</h3>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/250px-Apache_kafka.svg.png" alt="Apache Kafka" width="40" height="40"/> </a>    
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/250px-Apache_kafka.svg.png" alt="Apache Kafka" width="20" height="40"/> </a>    
 <a href="https://spring.io/reactive" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/13SnnJ5s/reactive-spring-boot.png" alt="Spring Reactive" width="40" height="40"/> </a>  
 
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/rbanuelospy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbanuelospy" height="30" width="40" /></a>
-
+<a href="robertobanuelos@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="robertobanuelos@gmail.com" height="30" width="40" /></a>
 </p>
 
